@@ -8,7 +8,7 @@ Extending the supported out-of-the-box tools is especially welcome, See `autom8/
 Start by cloning the **GitHub** repository, then create and activate a virtual environment before installing with the dev extra:
 
 ```bash
-git clone https://github.com/cleairlabs/autom8.git
+git clone https://github.com/beakta/autom8.git
 cd autom8
 python -m venv .venv
 source .venv/bin/activate
