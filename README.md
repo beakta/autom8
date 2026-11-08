@@ -5,7 +5,7 @@
     </picture>
 </div>
 
-[![Pytests](https://github.com/cleairlabs/autom8/actions/workflows/pytests.yml/badge.svg)](https://github.com/cleairlabs/autom8/actions/workflows/pytests.yml)
+[![Pytests](https://github.com/beakta/autom8/actions/workflows/pytests.yml/badge.svg)](https://github.com/beakta/autom8/actions/workflows/pytests.yml)
 
 
 Autom8 is a framework for building AI agents.
@@ -23,7 +23,7 @@ It uses LiteLLM's Responses interface for model calls, so models are selected wi
 
 Install directly from GitHub with `pip`:
 ```bash
-pip install git+https://github.com/cleairlabs/autom8.git
+pip install git+https://github.com/beakta/autom8.git
 ```
 
 If you install from GitHub, create your own script and pass an explicit path to your YAML config when calling `load_agent_config(...)`.
